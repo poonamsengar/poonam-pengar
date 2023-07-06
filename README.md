@@ -1,4 +1,4 @@
-# poonam-pengar
+# poonam-sengar
 <h1 align="center">Hi 👋, I'm Poonam Sengar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
